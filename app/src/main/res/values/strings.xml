@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PassingValueBetweenActivities</string>
+    <string name="first_activity_button">Activity A Button</string>
+    <string name="second_activity_button">Activity B Button</string>
+</resources>
